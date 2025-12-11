@@ -12,6 +12,7 @@
 
 ## 👨‍💻 About Me
 
+- 💼 SDE @ CG Infinity
 - 🎓 B.Tech IT @ **BPIT Delhi** | CGPA: **8.65**
 - 💬 Ask me about **MERN stack**, **DSA**, **Auth**, **REST APIs**, **UI design**
 - 🧠 Strong interest in Data Structures and Algorithms.
